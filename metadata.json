@@ -1,0 +1,6 @@
+{
+  "name": "Waseem Baqesh",
+  "description": "وسيم باقش (Waseem Baqesh) - تعلّم الإنجليزية خطوة بخطوة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
